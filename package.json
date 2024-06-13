@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "cal-heatmap": "^4.2.4",
+    "dayjs": "^1.11.11",
     "next": "canary",
     "react": "19.0.0-rc-6f23540c7d-20240528",
     "react-dom": "19.0.0-rc-6f23540c7d-20240528"
